@@ -8,3 +8,7 @@ function test_world() {
 function again() {
   console.log("again");
 }
+
+function once() {
+  console.log("Onece");
+}
